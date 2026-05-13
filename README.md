@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=gradient&height=250&section=header&text=Full%20Stack%20Explorer&fontSize=60&animation=fadeIn" width="100%" />
-</p>
-
-<p align="center">
   <a href="https://github.com/[YOUR_USER]">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9945FF&center=true&vCenter=true&width=435&lines=Web3+Enthusiast;AI+Implementation;Solana+Developer;Vue.js+Expert" alt="Typing SVG" />
   </a>
@@ -11,7 +7,7 @@
 ---
 
 ### 🌑 About Me
-I'm cwel
+cwel
 
 ---
 
