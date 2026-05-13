@@ -29,5 +29,5 @@ cwel
 ---
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_USER]&color=9945FF&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=przelot3&color=9945FF&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
 </p>
