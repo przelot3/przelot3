@@ -11,8 +11,6 @@ cwel
 
 ---
 
-### 🚀 Tech Ecosystem
-
 #### 🧠 Artificial Intelligence
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
