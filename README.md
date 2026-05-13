@@ -1,5 +1,3 @@
-# 👋 Hi there, I'm [Your Name]!
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=gradient&height=250&section=header&text=Full%20Stack%20Explorer&fontSize=60&animation=fadeIn" width="100%" />
 </p>
