@@ -28,14 +28,6 @@ cwel
 
 ---
 
-### 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USER]&show_icons=true&theme=transparent&hide_border=true&title_color=9945FF&text_color=ffffff" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USER]&layout=compact&theme=transparent&hide_border=true&title_color=9945FF&text_color=ffffff" alt="Top Languages" width="48%" />
-</p>
-
----
-
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=[YOUR_USER]&color=9945FF&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
 </p>
