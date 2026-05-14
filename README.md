@@ -1,11 +1,5 @@
 <p align="center">
-  <a href="https://github.com/przelot3">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9945FF&center=true&vCenter=true&width=435&lines=AI+Implementation;Vue.js;Vibecoding" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
+ <a href="https://github.com/przelot3">
 ### 🌑 About Me
 cwel
 
