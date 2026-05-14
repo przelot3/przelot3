@@ -2,7 +2,6 @@
  <a href="https://github.com/przelot3">
  </a>
 </p>
----
 ### 🌑 About Me
 cwel
 
