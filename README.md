@@ -1,8 +1,11 @@
 <p align="center">
- <a href="https://github.com/przelot3">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9945FF&center=true&vCenter=true&width=435&lines=AI+Implementation;Vue.js" alt="Typing SVG" />
- </a>
+  <a href="https://github.com/przelot3">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9945FF&center=true&vCenter=true&width=435&lines=AI+Implementation;Vue.js;Vibecoding" alt="Typing SVG" />
+  </a>
 </p>
+
+---
+
 ### 🌑 About Me
 cwel
 
@@ -22,7 +25,3 @@ cwel
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
 ---
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=przelot3&color=9945FF&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
-</p>
