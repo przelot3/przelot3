@@ -8,7 +8,6 @@
 
 ### 🌑 About Me
 cwel
-ig: skubussss
 ---
 
 #### 🧠 Artificial Intelligence
